@@ -1,0 +1,8 @@
+.Fondo{
+    background-color:red;
+    width:100px;
+    height:100;
+    margin: 10px solid blue;
+    border: 20px solid rgb(0, 113, 128);
+    padding: 10px solid yellow ;
+}
